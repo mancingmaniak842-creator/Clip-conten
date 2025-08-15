@@ -1,0 +1,17 @@
+# File sementara hasil proses video
+temp_*.mp4
+
+# File subtitle yang diunduh oleh yt-dlp
+*.vtt
+
+# Cache dan file sementara Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Direktori virtual environment Python
+venv/
+*.venv
+
+# File log atau debug
+*.log
